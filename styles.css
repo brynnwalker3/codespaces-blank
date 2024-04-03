@@ -26,6 +26,8 @@ h1 {
     display: flex;
     justify-content: center;
     margin-bottom: 1%;
+    height: 40px;
+    margin-top: 1%;
 }
 
 input {
@@ -36,6 +38,7 @@ input {
     border-radius: 10px;
     border: #c9ada7 solid 2px;
     margin-right: 10px;
+    height: 40px;
 }
 
 button {
@@ -46,6 +49,7 @@ button {
     background-color: #c9ada7;
     border-radius: 10px;
     border: none;
+    height: 40px;
 }
 body {
     background-color: #f2e9e4;
